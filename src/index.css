@@ -61,7 +61,7 @@ nav {
   transition: all 0.3s linear;
   cursor: pointer;
 }
-.nav-toggle:focus {
+.nav-toggle:hover {
   color: #063251;
   transform: rotate(90deg);
 }
